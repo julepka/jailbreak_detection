@@ -1,0 +1,15 @@
+# General
+.DS_Store
+.Trashes
+*.swp
+*.lock
+
+# removing all personal settings including custom schemes
+xcuserdata/
+
+# App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+
